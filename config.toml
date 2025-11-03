@@ -3,8 +3,8 @@
 address = ":9000"
 
 # Admin dashboard and API credentials.
-admin_username = "dictpress"
-admin_password = "dictpress_admin_password"
+admin_username = "#dictpress-mlde"
+admin_password = "dictpress_mlde#2wQ"
 
 # The website URL to be used on the frontend pages.
 # Example: yourdictionary.site.com
