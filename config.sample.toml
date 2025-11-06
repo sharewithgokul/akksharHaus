@@ -106,6 +106,7 @@ adv = "Adverb"
 conj = "Conjugation"
 
 [lang.italian]
+name = "Italian"
 tokenizer = "italian"
 tokenizer_type = "postgres"
 
