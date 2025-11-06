@@ -105,11 +105,11 @@ verb = "Verb"
 adv = "Adverb"
 conj = "Conjugation"
 
-[lang.italian]
+[lang.german]
 name = "German"
 tokenizer = "german"
 tokenizer_type = "postgres"
 
-[lang.italian.types]
+[lang.german.types]
 sost = "Sostantivo"       # Noun
 verb = "Verbo"            # Verb
