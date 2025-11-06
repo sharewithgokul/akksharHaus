@@ -29,7 +29,7 @@ enable_pages = true
 enable_submissions = false
 
 # Available dictionary pairs. [$FromLangName, $ToLangName] pairs from the languages defined below in [lang.*] keys.
-dicts = [["english", "italian"], ["italian", "english"]]
+dicts = [["english", "german"], ["german", "english"]]
 
 
 [api_results]
@@ -106,8 +106,8 @@ adv = "Adverb"
 conj = "Conjugation"
 
 [lang.italian]
-name = "English"
-tokenizer = "italian"
+name = "German"
+tokenizer = "german"
 tokenizer_type = "postgres"
 
 [lang.italian.types]
